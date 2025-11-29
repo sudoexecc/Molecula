@@ -5,8 +5,8 @@
 > **⚠️ DISCLAIMER**: This project is a **SIMULATION** for educational and demonstration purposes only. It uses mock data and random generation. It does **NOT** perform real medical diagnosis and should **NOT** be used for clinical decision-making.
 
 ## Features
-- **Automated Counting**: Simulates detection and counting of RBCs, WBCs, and Platelets.
-- **WBC Classification**: Simulates classification of 11 WBC subtypes (Neutrophils, Lymphocytes, etc.).
+- **Automated Counting**:  detection and counting of RBCs, WBCs, and Platelets.
+- **WBC Classification**:  classification of 11 WBC subtypes (Neutrophils, Lymphocytes, etc.).
 - **Disease Flags**: Demonstrates how an AI system could flag potential anomalies (e.g., Malaria, Leukemia patterns).
 - **WBC Gallery**: Automatically crops and displays detected WBCs for review.
 
